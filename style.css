@@ -1,3 +1,45 @@
-p{
-    color: brown;
+.blog{
+    background-color: aquamarine;
+    border: 3px solid yellowgreen;
+    border-radius: 7px;
+    margin: 30px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.tour{
+    background-color: orange;
+    border: 3px solid magenta;
+    border-radius: 7px;
+    margin: 30px 10px;
+    padding: 10px 10px 10px 10px;
+}
+.travel{
+    background-color: coral;
+    border: 3px solid rgb(42, 34, 35);
+    border-radius: 7px;
+    margin: 30px 10px;
+    padding: 10px;
+}
+.blogi{
+    text-align: center;
+}
+.blog p{
+    text-align: justify;
+}
+.tour p{
+    text-align: justify;
+}
+.travel p{
+    text-align: justify;
+}
+.author-name1{
+    color: cornflowerblue;
+}
+.author-name2{
+    color: darkgreen;
+}
+.author-name3{
+    color: royalblue;
 }
